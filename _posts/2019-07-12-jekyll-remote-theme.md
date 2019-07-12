@@ -1,7 +1,7 @@
 ---
 title: "Jekyll Minimal Mistake 테마 사용법"
 date: 2019-07-12 22:00:00 +0900
-categories: jekyll github
+tags: [jekyll, github]
 ---
 Jekyll Minimal Mistake 테마로 Github Pages를 만드는 방법은 아래 글을 참고하였다.
 

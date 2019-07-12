@@ -1,7 +1,8 @@
 ---
 title: "Unity Test Runner"
 date: 2019-07-12 20:30:00 +0900
-categories: 유니티 테스트 번역
+categories: 유니티
+tags: [테스트, 번역]
 ---
 [raywenderlich.com](https://www.raywenderlich.com/)의 [Introduction To Unity Unit Testing](https://www.raywenderlich.com/9454-introduction-to-unity-unit-testing)을 정리하였다.
 
