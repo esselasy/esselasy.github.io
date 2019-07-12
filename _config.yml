@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "ESSELASY's Development History"
+title                    : "ESSELASY의 개발 기록물 보관소"
 title_separator          : "-"
 name                     : "esselasy"
 description              : "개발 기록물 보관소"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "esselasy"
   avatar           : "/assets/images/profile_2019-07-12_21-07-39.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "Developer"
+  bio              : "게으른 개발자를 꿈꾸며..."
   location         : "Republic of Korea"
   email            :
   links:
