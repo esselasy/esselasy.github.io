@@ -43,3 +43,12 @@ author:
 
 ### 태그 설정
 [_pages/tag-archive.md](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_pages/tag-archive.md)를 /tags/index.html로 복사한다.
+
+### 작성 글에서 카테고리와 태그 사용법
+````
+---
+title: "Unity Test Runner"
+categories: Unity
+tags: Test 번역
+---
+````
