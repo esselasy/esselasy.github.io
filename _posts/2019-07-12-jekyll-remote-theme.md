@@ -36,3 +36,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/esselasy/"  
 ````
+
+## Archive 설정
+### 카테고리 설정
+[_pages/category-archive.md](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_pages/category-archive.md)를 /categories/index.html로 복사한다.
+
+### 태그 설정
+[_pages/tag-archive.md](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_pages/tag-archive.md)를 /tags/index.html로 복사한다.
