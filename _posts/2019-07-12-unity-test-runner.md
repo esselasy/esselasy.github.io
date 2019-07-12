@@ -3,8 +3,6 @@ title: "Unity Test Runner"
 date: 2019-07-12 20:30:00 +0900
 categories: 유니티 테스트 번역
 ---
-# Unity Test Runner
-
 [raywenderlich.com](https://www.raywenderlich.com/)의 [Introduction To Unity Unit Testing](https://www.raywenderlich.com/9454-introduction-to-unity-unit-testing)을 정리하였다.
 
 예제 게임 코드를 다운받으려면 위의 사이트에 가입해야 한다.
@@ -271,7 +269,7 @@ Setup에서 Scene을 불러와서 사용할 수도 있다.
 - 경험이 부족한 개발자는 이상한 걸 테스트하기 위해 시간을 낭비할 수 있다.
 - 외부 모듈이나 런타임 의존성이 있을 경우 테스트하기 어렵다.
 
-# 마치며
+## 마치며
 
 이 튜토리얼이 도움이 되었다면 [raywenderlich.com](https://www.raywenderlich.com/)에 가입하고 이 글 [Introduction To Unity Unit Testing](https://www.raywenderlich.com/9454-introduction-to-unity-unit-testing)에 별점을 매겨주세요.
 
