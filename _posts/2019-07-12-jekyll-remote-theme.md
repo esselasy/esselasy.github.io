@@ -1,5 +1,5 @@
 ---
-title: "Jekyll Minimal Mistake 테마로 github pages 만들기"
+title: "Jekyll Minimal Mistake 테마 사용법"
 date: 2019-07-12 22:00:00 +0900
 categories: jekyll github
 ---
@@ -13,7 +13,7 @@ Jekyll Minimal Mistake 테마로 Github Pages를 만드는 방법은 아래 글�
 ## 테마 설정
 ````
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 ````
 
 ## 사이트 설정
