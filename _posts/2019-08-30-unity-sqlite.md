@@ -1,6 +1,6 @@
 ---
 title: "유니티에서 sqlite 사용하기"
-date: 2019-08-27 03:40:00 +0900
+date: 2019-08-27 06:30:00 +0900
 categories: 유니티
 tags: sqlite
 ---
@@ -42,10 +42,11 @@ zip 파일을 풀어서 안에 있는 dll을 다음과 같이 디렉토리에 �
 
 #### sqlite3.dll 설정  
 x64/sqlite3.dll을 클릭해서 Inspector를 열어서 아래와 같이 설정합니다.
+
 ![](https://ornithoptergames.com/content/images/2017/11/sqlite-dll-x64-01.png)
 ![](https://ornithoptergames.com/content/images/2017/11/sqlite-dll-x64-02.png)
 
-    x86/sqlite3.dll에 대해서도 똑같이 해줍니다.
+x86/sqlite3.dll에 대해서도 똑같이 해줍니다.
 
 ### 5. iOS 지원
 3번까지 적용하는 것으로 사용할 수 있습니다.
