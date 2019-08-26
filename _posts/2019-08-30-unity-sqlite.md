@@ -133,7 +133,7 @@ libs 폴더를 Assets/Plugins/SQLite/Android로 이동합니다.
 
 SQLiteExample.cs 스크립트를 만들고 빈 오브젝트를 생성해서 추가합니다.
 
-```
+```csharp
 using System.Data;
 using Mono.Data.Sqlite;
 using UnityEngine;
