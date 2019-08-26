@@ -1,5 +1,5 @@
 ---
-title: "유니티에서 sqlite 사용하기"
+title: "유니티에서 SQLite 사용하기"
 date: 2019-08-27 06:30:00 +0900
 categories: 유니티
 tags: sqlite
