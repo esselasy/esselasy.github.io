@@ -21,12 +21,15 @@ Unity가 설치된 디렉토리 하위의 Editor/Data/Mono/lib/mono/2.0/ 디렉�
           Mono.Data.SqliteClient.dll 
 ```
 
-### 3. 메뉴의 Edit > Player settings의 Other Settings에서 "Api Compatibility Level"을 2.0으로 선택합니다.
+### 3. API 레벨 설정
+메뉴의 Edit > Player settings의 Other Settings에서 "Api Compatibility Level"을 2.0으로 선택합니다.
 
 ### 4. Editor/Standalone 지원
 #### SQLite dll 다운로드  
 SQLite 사이트의 [sqlite.org](https://sqlite.org/)의 [Download](https://sqlite.org/download.html)에 접속해서 "Precompiled Binaries for Windows"에 있는 sqlite-dll-win32-x86-3290000.zip과 sqlite-dll-win64-x64-3290000.zip 파일을 다운로드합니다. 3290000과 같은 버전은 다를 수 있습니다.
-4. zip 파일을 풀어서 안에 있는 dll을 다음과 같이 디렉토리에 추가합니다.
+
+#### 유니티에 sqlite3.dll 추가
+zip 파일을 풀어서 안에 있는 dll을 다음과 같이 디렉토리에 추가합니다.
 ```
 -- Assets
   -- Plugins
