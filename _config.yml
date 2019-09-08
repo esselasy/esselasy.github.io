@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "esselasy"
+  name             : "사이안"
   avatar           : "/assets/images/profile_2019-07-12_21-07-39.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "귀차니즘 개발자..."
   location         : "Republic of Korea"
